@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="estate_root" name="房地产管理">
+        <menuitem id="estate_settings" name="房地产属性菜单">
+            <menuitem id="estate_property" name="房地产属性" action="action_estate_property"/>
+        </menuitem>
+    </menuitem>
+</odoo>
+
